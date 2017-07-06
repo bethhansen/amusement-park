@@ -1,0 +1,23 @@
+img {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
+#fair {
+  display: none;
+}
+.teacups {
+  display: none;
+}
+.merry-go-round {
+  display: none;
+}
+.rollercoaster {
+  display: none;
+}
+.ferriswheel {
+  display: none;
+}
+.tooshort {
+  display: none;
+}
